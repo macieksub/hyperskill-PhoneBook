@@ -1,2 +1,2 @@
 # hyperskill-PhoneBook
-Phone Book project from hyperskill Java Backend Developer track
+Phone Book(sorting and searching algorithms) project from hyperskill Java Backend Developer track
